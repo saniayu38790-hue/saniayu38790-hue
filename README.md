@@ -1,3 +1,4 @@
+![Software Engineer](./banner.png)
 Hi, I'm Kenji Fujimoto 👋
 
 Senior Software Engineer | Backend, AI/LLM, SaaS & API Development
